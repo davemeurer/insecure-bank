@@ -78,7 +78,7 @@
 	</build>
 	<dependencies>
 
-	<!-- Struts :-( -->
+	<!-- Bad Struts :-( -->
 		<dependency>
 			<groupId>org.apache.struts</groupId>
 			<artifactId>struts2-core</artifactId>
